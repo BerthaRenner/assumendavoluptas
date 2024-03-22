@@ -1,0 +1,40 @@
+{
+  "author": "BayleeBahringer",
+  "bugs": {
+    "url": "https://github.com/BerthaRenner/assumendavoluptas.git/issues"
+  },
+  "description": "Strongly typed Cap'n Proto implementation for the browser and Node.js using TypeScript",
+  "devDependencies": {
+    "codecov": "^2.2.0",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-tslint": "^8.1.1",
+    "gulp-typescript": "^3.2.0",
+    "gulp-util": "^3.0.8",
+    "lerna": "^2.0.0",
+    "merge-stream": "^1.0.1",
+    "tap": "^10.7.0",
+    "ts-node": "^3.2.0",
+    "tslint": "^5.5.0",
+    "tslint-eslint-rules": "^4.1.1",
+    "tslint-language-service": "^0.9.6",
+    "typescript": "^2.4.1"
+  },
+  "homepage": "https://github.com/BerthaRenner/assumendavoluptas.git",
+  "keywords": [
+    "capnp",
+    "maxime",
+    "typescript"
+  ],
+  "license": "MIT",
+  "main": "lib/index",
+  "name": "assumendavoluptas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerthaRenner/assumendavoluptas.git"
+  },
+  "typings": "lib/index",
+  "version": "1.0.0",
+  "dependencies": {}
+}
